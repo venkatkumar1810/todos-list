@@ -2,7 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## To install node modules ### `npm install` 
+## To check the working [https://venkatkumar1810.github.io/todos-list/](https://venkatkumar1810.github.io/todos-list/)
+## Hit on the logo or home on nav bar, since the application is routed to '/' nor '/todo-list/'.
+
+## To install node modules `npm install` 
 
 ## Available Scripts
 
