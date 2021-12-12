@@ -5,6 +5,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 To check the working [https://venkatkumar1810.github.io/todos-list/](https://venkatkumar1810.github.io/todos-list/)
 Hit on the logo or home on nav bar, since the application is routed to '/' not '/todo-list/'.
 
+## Output:
+----
+![](./1.png)
+----
+
 ## To install node modules `npm install` 
 
 ## Available Scripts
